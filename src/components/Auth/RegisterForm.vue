@@ -52,7 +52,7 @@ const form = ref({
         Continue sign up
       </button>
       <RouterLink
-        to="/register"
+        to="/Login"
         class="inline-flex items-center justify-center w-full px-8 py-3 mt-2 text-base font-medium text-black bg-gray-200 border border-transparent rounded-full hover:bg-gray-300 md:py-2 md:text-lg md:px-10 hover:shadow"
       >
         Sign In
